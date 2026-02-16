@@ -1,0 +1,2 @@
+#Project Description
+This project focuses on modeling and controlling a single robotoc leg as a foundation for quadruped locomotion.By succesfully controlling one leg, the same architecture can be extended to four legs with appropriate timing and coordination. This work contributes to the understanding of underactuated robotic systems and provides foundational insight into quadrupet locomotion, balance control, and coordinated movement.
